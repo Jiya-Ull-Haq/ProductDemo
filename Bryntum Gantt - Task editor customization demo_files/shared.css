@@ -152,7 +152,6 @@ body.b-size-phone #container::after {
   align-items: center;
   padding-inline-start: 2.1em;
   font-size: 1.3em;
-  background: url(images/logo_bryntum_bw.png) no-repeat;
   background-size: 1.6em;
   background-position-y: center;
   white-space: nowrap;
